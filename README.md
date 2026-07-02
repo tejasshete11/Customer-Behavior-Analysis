@@ -18,10 +18,10 @@ The **Customer Behavior Analysis Dashboard** is a Data Analytics project that an
 
 ## 🛠️ Tech Stack
 
-* **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-* **MySQL**
-* **SQL**
-* **Power BI**
+* **Python** (Pandas, NumPy, Matplotlib, Seaborn)  ![Python](https://img.shields.io/badge/Python-3.11-blue)
+* **MySQL**  ![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+* **SQL**  ![SQL](https://img.shields.io/badge/SQL-Queries-red)
+* **Power BI**  ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 
 ---
 
@@ -89,9 +89,11 @@ The **Customer Behavior Analysis Dashboard** is a Data Analytics project that an
 
 This project demonstrates an end-to-end data analytics workflow, from cleaning and analyzing raw customer data to storing it in a relational database and building an interactive Power BI dashboard. The insights generated can help businesses understand customer behavior, optimize product strategies, and support data-driven decision-making.
 
+🙋‍♂️ About Me
+Tejas Shete
+🎓 B.Sc. Data Science
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-![SQL](https://img.shields.io/badge/SQL-Queries-red)
-![License](https://img.shields.io/badge/License-MIT-green)
+Skills: SQL | Python | Excel | Power BI | Machine Learning
+
+⭐ Support
+If you like this project, consider giving it a star ⭐ on GitHub and feel free to fork or contribute!
