@@ -83,11 +83,11 @@ This project demonstrates an end-to-end data analytics workflow, from cleaning a
 
 ---
 
-🙋‍♂️ About Me
-Tejas Shete
-🎓 B.Sc. Data Science
+## 🙋‍♂️ About Me
+**Tejas Shete**  
+🎓 B.Sc. Data Science  
 
-Skills: SQL | Python | Excel | Power BI | Machine Learning
+**Skills:** SQL | Python | Excel | Power BI | Machine Learning  
 
 ---
 
