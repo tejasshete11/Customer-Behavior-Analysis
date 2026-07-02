@@ -39,7 +39,7 @@ The **Customer Behavior Analysis Dashboard** is a Data Analytics project that an
 ## 📊 Dashboard Preview
 
 ```
-![Customer Behavior Dashboard]("C:\Users\tejas\OneDrive\Pictures\Screenshots\Screenshot 2026-07-02 141850.png")
+![Customer Behavior Dashboard]("Screenshot 2026-07-02 141850.png")
 ```
 
 ---
@@ -89,11 +89,15 @@ The **Customer Behavior Analysis Dashboard** is a Data Analytics project that an
 
 This project demonstrates an end-to-end data analytics workflow, from cleaning and analyzing raw customer data to storing it in a relational database and building an interactive Power BI dashboard. The insights generated can help businesses understand customer behavior, optimize product strategies, and support data-driven decision-making.
 
+---
+
 🙋‍♂️ About Me
 Tejas Shete
 🎓 B.Sc. Data Science
 
 Skills: SQL | Python | Excel | Power BI | Machine Learning
+
+---
 
 ⭐ Support
 If you like this project, consider giving it a star ⭐ on GitHub and feel free to fork or contribute!
