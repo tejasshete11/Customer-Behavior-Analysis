@@ -91,5 +91,5 @@ This project demonstrates an end-to-end data analytics workflow, from cleaning a
 
 ---
 
-⭐ Support
+## ⭐ Support
 If you like this project, consider giving it a star ⭐ on GitHub and feel free to fork or contribute!
