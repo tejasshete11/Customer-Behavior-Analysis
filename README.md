@@ -36,14 +36,6 @@ The **Customer Behavior Analysis Dashboard** is a Data Analytics project that an
 
 ---
 
-## 📊 Dashboard Preview
-
-```
-![Customer Behavior Dashboard]("Screenshot 2026-07-02 141850.png")
-```
-
----
-
 ## 📈 Dashboard Highlights
 
 * 👥 **Total Customers:** 3.9K
